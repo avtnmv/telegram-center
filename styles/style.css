@@ -21,7 +21,10 @@
 
     min-height: 100dvh; 
 }
-
+.logo{
+    width: 128px;
+    height: 129px;
+}
 .content{
     width: 462px;
     background-color: #fff;
