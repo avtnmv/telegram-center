@@ -124,7 +124,7 @@ span{
         align-items: unset;
     }
     .content{
-        height: 585px;
+        height: fit-content;
         margin-top: 51px;
     }
 }  
